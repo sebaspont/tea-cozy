@@ -62,6 +62,10 @@ body {
   width: 100%;
 }
 
+.tea-of-the-month {
+  margin-top: 80px;
+}
+
 .feature-container {
   display: inline-flex;
   max-width: 1000px;
@@ -97,19 +101,18 @@ body {
   text-align: center;
 }
 
-
 .locations-box-container {
-  max-width: 1050px;
-  /* margin: */
+  /* max-width: 1050px;
+  margin: 0; */
 }
 
 .location-box {
-  height: 300px;
+  /* height: 300px;
   width: 300px;
   padding-top: 15px;
   padding: 40px;
   opacity: 1;
-  background-color: black;
+  background-color: black; */
 }
 
 .contact {
